@@ -1,0 +1,3 @@
+Desarrollo integral del clásico juego Uno, implementado en Java y fundamentado en principios sólidos de Programación Orientada a Objetos (POO). Este proyecto no solo abarca la lógica del juego, sino que también incluye una interfaz gráfica interactiva diseñada con JavaFX, lo que permite una experiencia de usuario fluida y atractiva.
+
+Las cartas y los elementos visuales fueron diseñados a mano, lo que añade un toque único y personalizado al juego. Se prestó especial atención a la usabilidad y la estética, asegurando que los jugadores puedan disfrutar de una experiencia inmersiva y entretenida. Además, se implementaron características adicionales, como animaciones y efectos sonoros, para enriquecer aún más la jugabilidad y mantener el interés de los usuarios.
