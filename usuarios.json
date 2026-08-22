@@ -1,48 +1,5 @@
 [
   {
-    "nombre": "Jesus",
-    "cartas": {
-      "mazo": [
-        {
-          "color": "R",
-          "tipo": "3",
-          "urlImagen": "/views/recursos/R-3.png"
-        },
-        {
-          "color": "Y",
-          "tipo": "6",
-          "urlImagen": "/views/recursos/Y-6.png"
-        },
-        {
-          "color": "G",
-          "tipo": "S",
-          "urlImagen": "/views/recursos/G-S.png"
-        },
-        {
-          "color": "G",
-          "tipo": "5",
-          "urlImagen": "/views/recursos/G-5.png"
-        },
-        {
-          "color": "Y",
-          "tipo": "5",
-          "urlImagen": "/views/recursos/Y-5.png"
-        },
-        {
-          "color": "Y",
-          "tipo": "9",
-          "urlImagen": "/views/recursos/Y-9.png"
-        },
-        {
-          "color": "B",
-          "tipo": "7",
-          "urlImagen": "/views/recursos/B-7.png"
-        }
-      ]
-    },
-    "puntaje": 0
-  },
-  {
     "nombre": "leo",
     "cartas": {
       "mazo": [
@@ -78,7 +35,9 @@
         }
       ]
     },
-    "puntaje": 100
+    "puntajeTotal": 0,
+    "partidasGanadas": 0,
+    "puntajePromedio": 0.0
   },
   {
     "nombre": "Pepe",
@@ -111,49 +70,143 @@
         }
       ]
     },
-    "puntaje": 0
+    "puntajeTotal": 0,
+    "partidasGanadas": 0,
+    "puntajePromedio": 0.0
   },
   {
     "nombre": "",
     "cartas": {
       "mazo": [
         {
-          "color": "B",
-          "tipo": "8",
-          "urlImagen": "/views/recursos/B-8.png"
+          "color": "G",
+          "tipo": "R",
+          "urlImagen": "/views/recursos/G-R.png"
         },
         {
-          "color": "B",
+          "color": "G",
+          "tipo": "9",
+          "urlImagen": "/views/recursos/G-9.png"
+        },
+        {
+          "color": "G",
+          "tipo": "S",
+          "urlImagen": "/views/recursos/G-S.png"
+        },
+        {
+          "color": "G",
           "tipo": "1",
-          "urlImagen": "/views/recursos/B-1.png"
-        },
-        {
-          "color": "Y",
-          "tipo": "4",
-          "urlImagen": "/views/recursos/Y-4.png"
-        },
-        {
-          "color": "W",
-          "tipo": "CC",
-          "urlImagen": "/views/recursos/W-CC.png"
-        },
-        {
-          "color": "R",
-          "tipo": "8",
-          "urlImagen": "/views/recursos/R-8.png"
-        },
-        {
-          "color": "B",
-          "tipo": "6",
-          "urlImagen": "/views/recursos/B-6.png"
+          "urlImagen": "/views/recursos/G-1.png"
         },
         {
           "color": "B",
           "tipo": "2",
           "urlImagen": "/views/recursos/B-2.png"
+        },
+        {
+          "color": "B",
+          "tipo": "3",
+          "urlImagen": "/views/recursos/B-3.png"
+        },
+        {
+          "color": "G",
+          "tipo": "4",
+          "urlImagen": "/views/recursos/G-4.png"
         }
       ]
     },
-    "puntaje": 0
+    "puntajeTotal": 0,
+    "partidasGanadas": 0,
+    "puntajePromedio": 0.0
+  },
+  {
+    "nombre": "Jesus",
+    "cartas": {
+      "mazo": [
+        {
+          "color": "R",
+          "tipo": "9",
+          "urlImagen": "/views/recursos/R-9.png"
+        },
+        {
+          "color": "G",
+          "tipo": "2",
+          "urlImagen": "/views/recursos/G-2.png"
+        },
+        {
+          "color": "R",
+          "tipo": "5",
+          "urlImagen": "/views/recursos/R-5.png"
+        },
+        {
+          "color": "G",
+          "tipo": "1",
+          "urlImagen": "/views/recursos/G-1.png"
+        },
+        {
+          "color": "Y",
+          "tipo": "T2",
+          "urlImagen": "/views/recursos/Y-T2.png"
+        },
+        {
+          "color": "B",
+          "tipo": "4",
+          "urlImagen": "/views/recursos/B-4.png"
+        },
+        {
+          "color": "G",
+          "tipo": "7",
+          "urlImagen": "/views/recursos/G-7.png"
+        }
+      ]
+    },
+    "puntajeTotal": 0,
+    "partidasGanadas": 0,
+    "puntajePromedio": 0.0
+  },
+  {
+    "nombre": "A",
+    "cartas": {
+      "mazo": [
+        {
+          "color": "B",
+          "tipo": "R",
+          "urlImagen": "/views/recursos/B-R.png"
+        },
+        {
+          "color": "G",
+          "tipo": "S",
+          "urlImagen": "/views/recursos/G-S.png"
+        },
+        {
+          "color": "Y",
+          "tipo": "8",
+          "urlImagen": "/views/recursos/Y-8.png"
+        },
+        {
+          "color": "W",
+          "tipo": "T4",
+          "urlImagen": "/views/recursos/W-T4.png"
+        },
+        {
+          "color": "B",
+          "tipo": "7",
+          "urlImagen": "/views/recursos/B-7.png"
+        },
+        {
+          "color": "G",
+          "tipo": "6",
+          "urlImagen": "/views/recursos/G-6.png"
+        },
+        {
+          "color": "R",
+          "tipo": "7",
+          "urlImagen": "/views/recursos/R-7.png"
+        }
+      ]
+    },
+    "puntajeTotal": 0,
+    "partidasGanadas": 0,
+    "puntajePromedio": 0.0
   }
 ]
