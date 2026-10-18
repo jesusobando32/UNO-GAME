@@ -6,6 +6,10 @@
 
 Desarrollo integral del clásico juego **UNO**, construido desde cero utilizando Java 21 y fundamentado en principios sólidos de Programación Orientada a Objetos (POO). Este proyecto no solo abarca el motor de lógica del juego, sino que incluye una interfaz gráfica interactiva y moderna construida con **JavaFX**, brindando una experiencia inmersiva de escritorio.
 
+## 👥 Equipo y mi rol
+
+Proyecto en equipo de la UCAB. Además de trabajar en el código, diseñé el estilo visual del juego: las cartas y la interfaz con estética **8-bit**.
+
 ## 📸 Interfaz del Juego
 | Pantalla de Inicio | Plena Partida |
 |:---:|:---:|
@@ -30,8 +34,9 @@ El proyecto sigue el patrón arquitectónico **Modelo-Vista-Controlador (MVC)**,
 - [JDK 21](https://adoptium.net/) instalado y configurado en tu variable de entorno `JAVA_HOME`.
 
 ### Pasos de ejecución
-1. Clona este repositorio o navega a la carpeta del proyecto:
+1. Clona este repositorio:
    ```bash
+   git clone https://github.com/jesusobando32/UNO-GAME.git
    cd UNO-GAME
    ```
 2. Compila el proyecto utilizando el Maven Wrapper incluido:
